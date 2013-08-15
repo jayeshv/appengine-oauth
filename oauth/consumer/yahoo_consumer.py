@@ -1,8 +1,8 @@
 from src.authentication.oauth.consumer import consumer_base
 from src import DOMAIN
 
-CONSUMER_KEY = 'dj0yJmk9TjVMMmFIMVQ4aUpOJmQ9WVdrOVpFMDRWV0ZWTlRBbWNHbzlNVFUzTVRJeE56QTJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD03ZA--'
-CONSUMER_SECRET = '9c748815430723658682dd4e9a44cf8f9ddd1bbe'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 REQUEST_TOKEN_URL = 'https://api.login.yahoo.com/oauth/v2/get_request_token'
 AUTHORIZE_URL = 'https://api.login.yahoo.com/oauth/v2/request_auth'
 ACCESS_TOKEN_URL = 'https://api.login.yahoo.com/oauth/v2/get_token'

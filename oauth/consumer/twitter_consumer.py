@@ -3,8 +3,8 @@ import simplejson
 from src.authentication.oauth.consumer import consumer_base
 from src import DOMAIN
 
-CONSUMER_KEY = 'sKoIRsva4Jjz7VKWZA4SZg'
-CONSUMER_SECRET = '6jEBYKazvqv5LW3Gnftj0BRM9oMhVjGnZ0tytWTyLE'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 REQUEST_TOKEN_URL = 'https://api.twitter.com/oauth/request_token'
 AUTHORIZE_URL = 'https://api.twitter.com/oauth/authorize'
 ACCESS_TOKEN_URL = 'https://api.twitter.com/oauth/access_token'
